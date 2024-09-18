@@ -1,2 +1,3 @@
-docker/models
 __pycache__
+docker/models
+docker/models.tar.gz
